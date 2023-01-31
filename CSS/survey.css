@@ -1,0 +1,13 @@
+.survey {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.question {
+    margin-top: 20px;
+}
+
+.response {
+    margin-top: 10px;
+}
